@@ -12,7 +12,17 @@
 
 a.微红包活动线下扫码领取现金红包的流程：
 
+![](/assets/import.png14774) ![](/assets/import.png25885) ![](/assets/import.png36996)
+
+![](/assets/import.png12332) ![](/assets/import.png45665) ![](/assets/import.png78998)
+
 b.微红包活动线下扫码领取优惠券的流程：
 
+![](/assets/import.png012121) ![](/assets/import.png02332) ![](/assets/import.png041414)
+
+![](/assets/import.png258025) ![](/assets/import.png36987) ![](/assets/import.png014563)
+
 小程序页面展示
+
+![](/assets/import.png14569787) ![](/assets/import.png00023)
 
