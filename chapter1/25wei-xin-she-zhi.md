@@ -10,9 +10,7 @@
 
 3. 订阅号无需添加消息通知模板ID。
 
-![](/assets/import.png25)
+![](/assets/import.png044404)
 
-![](/assets/import.png26)
-
-
+![](/assets/import.png033303)
 
