@@ -10,7 +10,7 @@
 
 微红包活动：
 
-![](/assets/import.png) ![](/assets/import.png2) ![](/assets/import.png3) 
+![](/assets/import.png) ![](/assets/import.png2) ![](/assets/import.png3)
 
 优惠券页面展示：
 
@@ -23,58 +23,4 @@
 店铺小程序：
 
 ![](/assets/import.png10) ![](/assets/import.png11) ![](/assets/import.png12)
-
-# 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-# 
-
-## 
-
-## 
-
-## 
-
-# 
-
-## 
-
-## 
-
-# 
-
-## 
-
-## 
-
-## 
-
-## 
-
-# 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-# 
-
-# 
-
-
 
