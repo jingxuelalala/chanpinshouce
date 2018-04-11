@@ -6,7 +6,7 @@
 
 ## 产品展示
 
-微红包活动：
+微红包活动扫码流程展示：
 
 ![](/assets/import.png) ![](/assets/import.png2) ![](/assets/import.png3)
 
@@ -18,7 +18,7 @@
 
 ![](/assets/import.png6) ![](/assets/import.png7) ![](/assets/import.png9)
 
-店铺小程序：
+店铺小程序首页：
 
 ![](/assets/import.png10) ![](/assets/import.png11) ![](/assets/import.png12)
 

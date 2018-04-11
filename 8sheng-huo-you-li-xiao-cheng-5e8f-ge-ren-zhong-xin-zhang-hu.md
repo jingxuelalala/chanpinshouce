@@ -22,7 +22,7 @@ b.微红包活动线下扫码领取优惠券的流程：
 
 ![](/assets/import.png258025) ![](/assets/import.png36987) ![](/assets/import.png014563)
 
-小程序页面展示
+“生活有礼”小程序页面展示：
 
 ![](/assets/import.png14569787) ![](/assets/import.png00023)
 
